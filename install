@@ -97,7 +97,6 @@ printf "\e[1;31m[\e[0m\e[1;92m2\e[0m\e[1;31m] \e[0m\e[1;37;41m No Guacamole * \e
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
-
 fi
 
 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[92m You Want to Choose One : \e[97m ' portfrd
@@ -136,7 +135,7 @@ echo""
 ./mrsuman
 rm -rf mrsuman
 msg_exit
-
+fi
 
 
 
