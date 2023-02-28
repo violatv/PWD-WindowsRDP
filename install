@@ -85,7 +85,7 @@ echo ""
 chmod +x suman 
 chmod +x mrsuman
 echo ""
-
+clear
 echo -e "\e[1;96m  \e[m "
 printf " \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m " 
 echo " "
