@@ -14,7 +14,7 @@ Main: https://labs.play-with-docker.com/ (guacamole)
 Or: Install Any Online Terminal
 
 ``` bash
-curl -sLkO https://github.com/OnlineHacKing/CloudWindows2023/raw/main/install ; chmod +x install ; ./install
+curl -sLkO https://github.com/OnlineHacKing/CloudWindows2023/raw/main/install.sh ; chmod +x install.sh ; ./install.sh
 ```
 
 1H: https://bit.ly/3wDhsRd
