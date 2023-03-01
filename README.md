@@ -11,10 +11,10 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Version-2.6-blue?style=for-the-badge&color=blue">
-     <img src="https://img.shields.io/github/stars/OnlineHacKing/Cloud_Linux_RDP?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/OnlineHacKing/Cloud_Linux_RDP?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/OnlineHacKing/Cloud_Linux_RDP?color=red&style=for-the-badge">
-    <img src="https://img.shields.io/github/license/OnlineHacKing/Cloud_Linux_RDP?style=for-the-badge&color=blue">
+     <img src="https://img.shields.io/github/stars/OnlineHacKing/PWD-WindowsRDP?style=for-the-badge&color=magenta">
+  <img src="https://img.shields.io/github/forks/OnlineHacKing/PWD-WindowsRDP?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/OnlineHacKing/PWD-WindowsRDP?color=red&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/OnlineHacKing/PWD-WindowsRDP?style=for-the-badge&color=blue">
 <br>
     <img src="https://img.shields.io/badge/Author-SUMAN-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-No-orange?style=flat-square">
@@ -61,7 +61,7 @@ Cloud Windows RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Deskt
 <br>
 
 ``` bash
-curl -sLkO https://github.com/OnlineHacKing/CloudWindows2023/raw/main/install ; chmod +x install ; ./install
+curl -sLkO https://github.com/OnlineHacKing/PWD-WindowsRDP/raw/main/install ; chmod +x install ; ./install
 ```
   <br>
  Main: https://labs.play-with-docker.com/ (guacamole)
