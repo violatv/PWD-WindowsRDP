@@ -122,6 +122,7 @@ echo ""
 clear
 echo ""
 logo
+sleep 5
 echo " "
 ./suman
 rm -rf suman
@@ -146,6 +147,7 @@ echo ""
 clear
 echo ""
 logo
+sleep 5
 echo " "
 ./mrsuman
 rm -rf mrsuman
