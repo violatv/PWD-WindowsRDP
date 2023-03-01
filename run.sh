@@ -1,3 +1,3 @@
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/OnlineHacKing/CloudWindows2023/main/install ; chmod +x install ; ./install
+curl -sLkO https://github.com/OnlineHacKing/PWD-WindowsRDP/raw/main/install ; chmod +x install ; ./install
