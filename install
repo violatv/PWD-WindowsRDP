@@ -73,7 +73,7 @@ echo ""
 echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://wwu.onlinehacking.org/pwd-windows-key/  "
 echo ""
 echo ""
-read -p $' \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Enter 6 Digit Licence Key : \e[0m\e[97m' option
+read -p $' \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Enter 8 Digit Licence Key : \e[0m\e[97m' option
 echo""
 echo""
 echo""
