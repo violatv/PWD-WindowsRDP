@@ -1,4 +1,4 @@
-# Using Tutorial : https://www.onlinehacking.org/cloud-linux-rdp-lifetime-free-for-google-cloud-console/
+# Using Tutorial : https://www.onlinehacking.org/pwd-windows-rdp-for-lifetime-free/
 
   <p>&nbsp;</p><p>&nbsp;</p>
 
@@ -7,7 +7,7 @@
   Free Cloud Windows Desktop RDP
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://www.onlinehacking.org/pwd-windows-rdp-for-lifetime-free/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Version-2.6-blue?style=for-the-badge&color=blue">
@@ -38,12 +38,12 @@ Cloud Windows RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Deskt
 
 
 ## ✅ How To Using This Tool Full Totoral :
- #### Link :- https://www.onlinehacking.org/cloud-linux-rdp-lifetime-free-for-google-cloud-console/
+ #### Link :- https://wwu.onlinehacking.org/pwd-windows-rdp-for-lifetime-free/
 ###
   <br>
   
   ## 🔑 Generator License Key [FREE] :
- #### Link :- https://wwu.onlinehacking.org/cloud-linux-rdp-key/
+ #### Link :- https://wwu.onlinehacking.org/pwd-windows-key/
 
   <br>
 
@@ -86,9 +86,7 @@ In PWD, Click OPEN PORT the type 8080 and press OK (or connect rdp using ip). En
  
   ## 📸 SCREENSHOTS [Windows]
 
-- 1 - Kali Linux:
-
-![image](https://user-images.githubusercontent.com/58414694/149538842-9f6663151c1e65d3f03.png)
+![image](https://raw.githubusercontent.com/OnlineHacKing/CloudWindows2023/main/Suman/suman.png)
 
 
  
