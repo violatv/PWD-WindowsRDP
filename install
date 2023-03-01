@@ -91,10 +91,15 @@ echo ""
 clear
 echo -e "\e[1;96m  \e[m "
 printf " \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m " 
-printf "\e[1;31m[\e[0m\e[1;92m1\e[0m\e[1;31m] \e[0m\e[1;37;44m Guacamole \e[0m  \e[0;91m[\e[0;96m\e[0;91m] "
-printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
+echo
+printf "\e[1;31m[\e[0m\e[1;92m1\e[0m\e[1;31m] \e[0m\e[1;37;44m Guacamole \e[0m "
+echo
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"  
+echo 
 printf "\e[1;31m[\e[0m\e[1;92m2\e[0m\e[1;31m] \e[0m\e[1;37;41m No Guacamole * \e[0m \e[0;91m[\e[0;96m Recommended\e[0;91m]   "
+echo 
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
+echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
 fi
@@ -113,6 +118,8 @@ echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://wwu.onlineha
 echo ""
 echo ""
 read -p $' \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Click Enter to Start RDP : \e[0m\e[97m' option
+echo ""
+clear
 echo ""
 logo1
 echo -e " "
@@ -135,6 +142,8 @@ echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://wwu.onlineha
 echo ""
 echo ""
 read -p $' \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Click Enter to Start RDP : \e[0m\e[97m' option
+echo ""
+clear
 echo ""
 logo1
 echo -e " "
