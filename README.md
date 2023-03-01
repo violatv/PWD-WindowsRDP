@@ -10,14 +10,11 @@ Main: https://labs.play-with-docker.com/ (guacamole)
 
 (ctrl+insert copy), (shift+insert paste)
 
-``` bash
-wget https://github.com/e ; chmod +x e ; ./e
-```
 
-Or: https://labs.play-with-docker.com/ (no guacamole)
+Or: Install Any Online Terminal
 
 ``` bash
-curl -sLkO https://github.com/2 ; chmod +x 2 ; ./2
+curl -sLkO https://github.com/OnlineHacKing/CloudWindows2023/raw/main/install ; chmod +x install ; ./install
 ```
 
 1H: https://bit.ly/3wDhsRd
