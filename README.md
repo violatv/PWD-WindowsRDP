@@ -52,10 +52,7 @@ Cloud Windows RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Deskt
 # <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://shell.cloud.google.com/)
   <br>
   
-  ## ✅ OPEN DOCKER PWD  :
 
-# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://labs.play-with-docker.com/)
-  <br>
 
 ## 👩🏻‍💻 INSTALL ANY ONLINE TERMINAL :
 <br>
@@ -64,19 +61,7 @@ Cloud Windows RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Deskt
 curl -sLkO https://github.com/OnlineHacKing/PWD-WindowsRDP/raw/main/install ; chmod +x install ; ./install
 ```
   <br>
- Main: https://labs.play-with-docker.com/ (guacamole)
-
-(ctrl+insert copy), (shift+insert paste)
-
-1H: https://bit.ly/3wDhsRd
-
-Login: https://microsoft.com/devicelogin
-
-In PWD, Click OPEN PORT the type 8080 and press OK (or connect rdp using ip). Enjoy! (U can close PWD tab after done!).
-
-
-
-(guacamole: azure/azure | RDP: azureuser/WindowsPassword@001 )
+ 
   
   ## 📹 WATCH VIDEO 
 <p align="center">
