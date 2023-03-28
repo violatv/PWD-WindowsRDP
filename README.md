@@ -1,4 +1,4 @@
-# Using Tutorial : https://www.onlinehacking.org/pwd-windows-rdp-for-lifetime-free/
+# Setup Tutorial : https://www.onlinehacking.org/pwd-windows-rdp-for-lifetime-free/
 
   <p>&nbsp;</p><p>&nbsp;</p>
 
@@ -37,7 +37,7 @@ Cloud Windows RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Deskt
 <br>
 
 
-## ✅ How To Using This Tool Full Totoral :
+## ✅ How To Using Full Totoral :
  #### Link :- https://wwu.onlinehacking.org/pwd-windows-rdp-for-lifetime-free/
 ###
   <br>
