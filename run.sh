@@ -1,3 +1,3 @@
 #!/bin/bash
 
-curl -sLkO https://github.com/OnlineHacKing/PWD-WindowsRDP/raw/main/install ; chmod +x install ; ./install
+curl -sLkO https://github.com/violatv/PWD-WindowsRDP/raw/main/install ; chmod +x install ; ./install
